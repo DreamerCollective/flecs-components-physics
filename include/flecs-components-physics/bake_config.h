@@ -18,8 +18,8 @@
 #define FLECS_COMPONENTS_PHYSICS_BAKE_CONFIG_H
 
 /* Headers of public dependencies */
-#include <flecs.h>
-#include <flecs_components_graphics.h>
+#include <flecs/flecs-base/flecs.h>
+#include <flecs/flecs-components-graphics/flecs_components_graphics.h>
 
 /* Convenience macro for exporting symbols */
 #ifndef flecs_components_physics_STATIC

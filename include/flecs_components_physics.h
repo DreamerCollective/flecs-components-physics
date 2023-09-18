@@ -1,7 +1,7 @@
 #ifndef FLECS_COMPONENTS_PHYSICS_H
 #define FLECS_COMPONENTS_PHYSICS_H
 
-#include <flecs-components-physics/bake_config.h>
+#include <flecs/flecs-components-physics/include/flecs-components-physics/bake_config.h>
 
 // Reflection system boilerplate
 #undef ECS_META_IMPL

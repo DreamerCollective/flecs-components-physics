@@ -1,5 +1,5 @@
 #define FLECS_COMPONENTS_PHYSICS_IMPL
-#include <flecs_components_physics.h>
+#include <flecs/flecs-components-physics/include/flecs_components_physics.h>
 
 ECS_DECLARE(EcsCollider);
 ECS_DECLARE(EcsRigidBody);
